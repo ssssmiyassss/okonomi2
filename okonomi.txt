@@ -2,3 +2,4 @@
 キャベツを入れます。
 豚肉を入れます。
 # 2021-07-06 15:00:33 push出来ないので，確認用のコミットです。
+# 2021-07-06 15:44:40 次のエラーがでたので，確認用コミットです。「Logon failed, use ctrl+c to cancel basic credential prompt.」
